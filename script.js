@@ -6,7 +6,8 @@
   const out = document.getElementById("ctaResult");
   if (btn && out) {
     btn.addEventListener("click", () => {
-      out.textContent = "Lovely choice. Now tailor the words and colors to your story.";
+      out.textContent = "Thanks for your interest — share the artwork and goal, and you’ll get a tailored quote via email.";
     });
   }
 })();
+
